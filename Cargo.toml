@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "ohlc-runner",
+  "ohlc-processor",
+]
